@@ -1,12 +1,14 @@
 # Far Side of the Moon syntax theme for Atom.
 
+Light version of the Dark Side of the Moon.
+
 ## far-side-of-the-moon-syntax theme
 
 Far Side of the Moon syntax theme Colors have been designed to be accessible to as many people as possible, even those who are visually impaired or experiencing any kind of colorblindness.
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/far-side-of-the-moon-syntax/issues).
 
-**Optimized for Atom (1.18.0 and more) Dark UI theme and Atom One Dark theme**
+**Optimized for Atom (1.18.0 and more) Far UI theme and Atom One Far theme**
 
 Ready for KOLTIN
 
@@ -18,9 +20,9 @@ apm install far-side-of-the-moon-syntax
 
 ```
 
-![Far Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/far-side-of-the-moon-syntax/master/img/home.png)
+![Far Side of the Moon is a Peaceful light syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/far-side-of-the-moon-syntax/master/img/home.png)
 
-Side of the Moon is a Peaceful dark syntax theme for Atom.
+Side of the Moon is a Peaceful light syntax theme for Atom.
 
 ### From BBedit
 
@@ -28,7 +30,7 @@ Inspired by the Autre Planète Far Side of the Moon syntax theme for BBedit.
 
 ### Elegant’s Colors
 
-Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
+Green Blue and Coral on the deep elegant light background. (Sea at the Moonlight)
 
 ### JS (JavaScript)
 

@@ -1,14 +1,14 @@
 {
   "name": "far-side-of-the-moon-syntax",
   "theme": "syntax",
-  "version": "0.6.28",
-  "description": "A darker and peaceful syntax theme « Far Side Of The Moon »",
+  "version": "0.6.29-beta1",
+  "description": "A Lighten and peaceful syntax theme « Far Side Of The Moon »",
   "keywords": [
     "syntax",
     "theme",
     "colorblind",
     "aesthetic",
-    "dark",
+    "light",
     "blue",
     "green",
     "coral"
