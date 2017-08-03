@@ -1,0 +1,21 @@
+{
+  "name": "far-side-of-the-moon-syntax",
+  "theme": "syntax",
+  "version": "0.6.28",
+  "description": "A darker and peaceful syntax theme « Far Side Of The Moon »",
+  "keywords": [
+    "syntax",
+    "theme",
+    "colorblind",
+    "aesthetic",
+    "dark",
+    "blue",
+    "green",
+    "coral"
+  ],
+  "repository": "https://github.com/thierryc/far-side-of-the-moon-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

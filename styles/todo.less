@@ -1,0 +1,63 @@
+@import "syntax-variables";
+
+// FIXME - Should be corrected.
+// HACK - A workaround.
+// TODO - Something to be done.
+// XXX - Warn other programmers of problematic or misguiding code
+// CHANGED: Good news
+// IDEA: A good one!
+// HACK: It is bad?
+// NOTE: for you!
+// REVIEW: for me!
+
+
+atom-text-editor {
+    .syntax--source .syntax--comment {
+
+        .syntax--changed,
+        .syntax--fixme,
+        .syntax--hack,
+        .syntax--idea,
+        .syntax--note,
+        .syntax--review,
+        .syntax--todo,
+        .syntax--xxx {
+            background-color: black;
+            padding-left: .4em;
+            padding-right: .4em;
+            border-radius: 3px;
+        }
+
+        .syntax--todo {
+            color: @syntax-color-todo-todo;
+        }
+
+        .syntax--fixme {
+            color: @syntax-color-todo-fixme;
+        }
+
+        .syntax--changed {
+            color: @syntax-color-todo-changed;
+        }
+
+        .syntax--xxx {
+            color: @syntax-color-todo-xxx;
+        }
+
+        .syntax--idea {
+            color: @syntax-color-todo-idea;
+        }
+
+        .syntax--hack {
+            color: @syntax-color-todo-hack;
+        }
+
+        .syntax--note {
+            color: @syntax-color-todo-note;
+        }
+
+        .syntax--review {
+            color: @syntax-color-todo-review;
+        }
+    }
+}
