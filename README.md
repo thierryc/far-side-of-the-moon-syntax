@@ -1,8 +1,8 @@
-# Dark Side of the Moon syntax theme for Atom.
+# Far Side of the Moon syntax theme for Atom.
 
 ## far-side-of-the-moon-syntax theme
 
-Dark Side of the Moon syntax theme Colors have been designed to be accessible to as many people as possible, even those who are visually impaired or experiencing any kind of colorblindness.
+Far Side of the Moon syntax theme Colors have been designed to be accessible to as many people as possible, even those who are visually impaired or experiencing any kind of colorblindness.
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/far-side-of-the-moon-syntax/issues).
 
@@ -18,13 +18,13 @@ apm install far-side-of-the-moon-syntax
 
 ```
 
-![Dark Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/far-side-of-the-moon-syntax/master/img/home.png)
+![Far Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/far-side-of-the-moon-syntax/master/img/home.png)
 
-Dark Side of the Moon is a Peaceful dark syntax theme for Atom.
+Side of the Moon is a Peaceful dark syntax theme for Atom.
 
 ### From BBedit
 
-Inspired by the Autre Planète Dark Side of the Moon syntax theme for BBedit.
+Inspired by the Autre Planète Far Side of the Moon syntax theme for BBedit.
 
 ### Elegant’s Colors
 
@@ -88,7 +88,7 @@ Nice colors for everyone. Good contrast, sweet colors.
 
 The goal of this  theme  is to be aesthetic, plesant to use and confortable for color blindness user.
 
-Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
+Far Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
 
 ## Contribution, Feedback and Suggestions
 
