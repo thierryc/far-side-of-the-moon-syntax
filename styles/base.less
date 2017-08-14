@@ -113,6 +113,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
   &.syntax--boolean {
     font-style: italic;
+    font-weight: bold;
     color: lighten(@orange, 3%);
   }
 }
@@ -188,6 +189,9 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
   &.syntax--section.syntax--embedded {
     color: lighten(@red, 10%);
+    &.syntax--jsx {
+      color: @dark-gray;
+    }
   }
 
 }

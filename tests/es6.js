@@ -16,8 +16,10 @@ console.log(mult(2, 5)); // 10
 let toto, tutu;
 
 if (toto == tutu) {
-
+  baz = false;
+  foo = true;
 }
+
 
 const lessIncludes = [path.join(__dirname, 'layout', 'includes')];
 
