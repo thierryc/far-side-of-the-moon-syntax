@@ -3,6 +3,7 @@
 @import "highlights";
 @import "find-editor";
 
+
 atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
@@ -108,6 +109,11 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
   &.syntax--other.syntax--symbol {
     color: @green;
+  }
+
+  &.syntax--boolean {
+    font-style: italic;
+    color: darken(@light-orange, 3%);
   }
 }
 
